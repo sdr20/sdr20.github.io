@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Fitness Tracker Mobile App",
+      "image": "https://via.placeholder.com/300x200?text=Fitness+App",
+      "desc": "A cross-platform mobile app designed to track workouts and health metrics in real-time. About Project: Developed to encourage fitness with an intuitive UI, cloud syncing, and personalized analytics.",
+      "tech": ["Flutter", "Firebase", "Dart"],
+      "duration": "4 months",
+      "liveLink": "https://fitness-tracker.example.com",
+      "repoLink": "https://github.com/yourusername/fitness-tracker",
+      "isMobile": true
+    },
+    {
+      "title": "Payroll Management Website",
+      "image": "https://via.placeholder.com/300x200?text=Payroll",
+      "desc": "A Vue.js-powered web application for streamlined employee payroll management, featuring secure authentication, automated calculations, and detailed reporting.",
+      "tech": ["Vue.js", "HTML/CSS", "Express.js"],
+      "duration": "5 months",
+      "liveLink": "https://payroll-management.example.com",
+      "repoLink": "https://github.com/yourusername/payroll-management",
+      "isMobile": false
+    },
+    {
+      "title": "Budget Planner Mobile App",
+      "image": "https://via.placeholder.com/300x200?text=Budget+App",
+      "desc": "A mobile app for personal finance management, offering budgeting tools and expense tracking. About Project: Designed to simplify financial planning on the go.",
+      "tech": ["React Native", "Redux", "Firebase"],
+      "duration": "3 months",
+      "liveLink": "https://budget-planner.example.com",
+      "repoLink": "https://github.com/yourusername/budget-planner",
+      "isMobile": true
+    }
+  ]
